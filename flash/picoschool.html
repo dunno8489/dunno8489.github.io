@@ -1,20 +1,12 @@
 <html lang="en_us">
    <head>
         <title>bedder flash lib</title>
-        <script src="https://unpkg.com/@ruffle-rs/ruffle">
-            var swfobject = {};
-
-            swfobject.embedSWF = function(url, cont, width, height){
-            var ruffle = window.RufflePlayer.newest(),
-            player = Object.assign(document.getElementById(cont).appendChild(ruffle.createPlayer()), {
-            width: width,
-            height: height,
-            style: 'width: ' + width + 'px; height: ' + height + 'px',
-        });
-    
-            player.load({ url: url });
-        }
-        swfobject.embedSWF('https://dunno8489.github.io/flash/picoschool.swf', 'ruffle', 500, 500);
-        </script>
+        <style>
+            body {
+                background-color: black;
+            }
+        </style>
+        <script src="https://unpkg.com/@ruffle-rs/ruffle"></script>
+        <embed height="480" pluginspage=" http://www.macromedia.com/go/getflashplayer" src="picoschool.swf" type="application/x-shockwave-flash" width="620"></embed>
    </head>
 </html>

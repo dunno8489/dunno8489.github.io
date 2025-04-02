@@ -1,0 +1,14 @@
+{
+    "id":"1",
+    "username":"limr77",
+    "displayname":"Limr",
+    "description":"hi. im the creator of lwonline.",
+    "joindate":{
+        "joinyear":"2025",
+        "joinmonth":"4",
+        "joinday":"2",
+        "joinhour":"5",
+        "joinminute":"11",
+        "joinsecond":"1"
+    }
+}

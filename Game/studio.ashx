@@ -1,11 +1,11 @@
 --rbxsig%PlTuAgFIXF4dJnAYpNZp3F90tiozqyFt7QVItTJxbp+2qJkDH4SvNK1OY/+ARjulMJgM/PeLkvmvfcyyg3P2kO4cfAz2d+MQlA/Jp7qfitGNNwhCfdxzZWi+y3mATmiY73pkMwIiVQo/t99xofgK7v3UJbBZWUPmzviuEcQIIqc=%
 -- Setup studio cmd bar & load core scripts
 
-pcall(function() game:GetService("InsertService"):SetFreeModelUrl("http://www.roblox.com/Game/Tools/InsertAsset.ashx?type=fm&q=%s&pg=%d&rs=%d") end)
-pcall(function() game:GetService("InsertService"):SetFreeDecalUrl("http://www.roblox.com/Game/Tools/InsertAsset.ashx?type=fd&q=%s&pg=%d&rs=%d") end)
+pcall(function() game:GetService("InsertService"):SetFreeModelUrl("https://dunno8489.github.io/Game/Tools/InsertAsset.ashx?type=fm&q=%s&pg=%d&rs=%d") end)
+pcall(function() game:GetService("InsertService"):SetFreeDecalUrl("https://dunno8489.github.io/Game/Tools/InsertAsset.ashx?type=fd&q=%s&pg=%d&rs=%d") end)
 
-game:GetService("ScriptInformationProvider"):SetAssetUrl("http://www.roblox.com/Asset/")
-game:GetService("InsertService"):SetBaseSetsUrl("http://www.roblox.com/Game/Tools/InsertAsset.ashx?nsets=10&type=base")
+game:GetService("ScriptInformationProvider"):SetAssetUrl("https://dunno8489.github.io/Asset/")
+game:GetService("InsertService"):SetBaseSetsUrl("https://dunno8489.github.io/Game/Tools/InsertAsset.ashx?nsets=10&type=base")
 game:GetService("InsertService"):SetUserSetsUrl("http://www.roblox.com/Game/Tools/InsertAsset.ashx?nsets=20&type=user&userid=%d")
 game:GetService("InsertService"):SetCollectionUrl("http://www.roblox.com/Game/Tools/InsertAsset.ashx?sid=%d")
 game:GetService("InsertService"):SetAssetUrl("http://www.roblox.com/Asset/?id=%d")

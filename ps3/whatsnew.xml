@@ -1,13 +1,27 @@
+<!--Made by InternalScripter-->
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
   <spc anno="csxad=1&adspace=9,10,11,12,13" id="33537" multi="o" rep="t">
     <mtrl id="0" lastm="2025-01-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z">
       <desc>PlayStation Plus Game Catalog for September: WWE 2K25, Persona 5 Tactica, Green Hell, Fate/Samurai Remnant, and more</desc>
-      <url type="2">https://www.example.com/image.jpg</url>
+      <url type="2">http://scriptblox.64-b.it/feedimages/1_en.jpg</url>
       <target type="u">https://blog.playstation.com/2025/09/10/playstation-plus-game-catalog-for-september-wwe-2k25-persona-5-tactica-green-hell-fate-samurai-remnant-and-more/</target>
       <cntry agelmt="0">usa</cntry>
       <lang>en</lang>
     </mtrl>
-    <!-- Additional <mtrl> entries for more items -->
+
+    <mtrl id="1" lastm="2025-01-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z">
+      <desc>PlayStation Plus-Spielekatalog für September: WWE 2K25, Persona 5 Tactica, Green Hell, Fate/Samurai Remnant und mehr</desc>
+      <url type="2"></url>
+      <target type="u">https://blog.de.playstation.com/2025/09/10/playstation-plus-spielekatalog-fuer-september-wwe-2k25-persona-5-tactica-green-hell-fate-samurai-remnant-und-mehr/</target>
+    </mtrl>
+
+    <mtrl id="2" lastm="2025-01-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z">
+      <desc>Announcing PlayStation Family App for parental controls and family management</desc>
+      <url type="2"></url>
+      <target type="u">https://blog.playstation.com/2025/09/10/announcing-playstation-family-app-for-parental-controls-and-family-management/</target>
+      <cntry agelmt="0">usa</cntry>
+      <lang>en</lang>
+    </mtrl>
   </spc>
 </nsx>

@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8" standalone="yes"?>
 <!--Made by InternalScripter-->
 <nsx anno="" lt-id="131" min-sys-ver="1" rev="1093" ver="1.0">
-  <spc anno="csxad=1&adspac;e=9,10,11,12,13" id="33537" multi="o" rep="t">
+  <spc anno="csxad=1&adspace=9,10,11,12,13;" id="33537" multi="o" rep="t">
     <mtrl id="0" lastm="2025-01-01T00:00:00.000Z" until="2100-12-31T23:59:00.000Z">
       <desc>PlayStation Plus Game Catalog for September: WWE 2K25, Persona 5 Tactica, Green Hell, Fate/Samurai Remnant, and more</desc>
       <url type="2">http://scriptblox.64-b.it/feedimages/placeholder.png</url>

@@ -1,9 +1,0 @@
-<?xml version="1.0" encoding="UTF-8"?>
-<np:news xmlns:np="http://www.scei.co.jp/np/ns/2007/news">
-  <np:newssection id="PSN_WHATS_NEW">
-    <np:item id="wn_custom" type="rss" url="http://scriptblox.64-b.it/ps3/feed.nsx">
-      <np:cntry agelmt="0">all</np:cntry>
-      <np:lang>all</np:lang>
-    </np:item>
-  </np:newssection>
-</np:news>

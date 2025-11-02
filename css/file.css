@@ -1,0 +1,14 @@
+body {
+    background-image: url("../images/tile.png");
+    background-color: gray;
+    background-repeat: repeat-x;
+    height: 100%;
+    margin: 0;
+    padding: 0;
+    background-position: bottom;
+}
+html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
